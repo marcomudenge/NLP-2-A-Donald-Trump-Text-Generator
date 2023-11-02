@@ -2,7 +2,7 @@
 
 In this second notebook on NLP, we use +30K Donald Trump speeches to create a simple text generator.
 
-By 'simple', we mean that we use N-grams rather then today's most advanced tehniques such as RNN transformers.
+By 'simple', we mean that we use N-grams rather then today's most advanced tehniques such as NN transformers.
 Nonetheless, it's a good intro to NLP.
 
 ### What is a N-gram?
