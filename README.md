@@ -1,4 +1,4 @@
-# NLP-2-A-Donald-Trump-Text-Generator
+# A Donald Trump-like Text Generator
 
 In this second notebook on NLP, we use +30K Donald Trump speeches to create a simple text generator.
 
